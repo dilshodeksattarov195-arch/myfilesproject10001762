@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authdender",
+        "uuid": 9283978,
+        "checksum": "wm9djf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
